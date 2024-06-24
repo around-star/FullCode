@@ -1,0 +1,11 @@
+--2023-08-19 02:59:32--  https://www.dropbox.com/scl/fo/4krtth0ce878bf3pufhzy/h?rlkey=sbu8h9yu81kvojuvrw0gsso6h
+Resolving www.dropbox.com (www.dropbox.com)... 2620:100:6031:18::a27d:5112, 162.125.81.18
+Connecting to www.dropbox.com (www.dropbox.com)|2620:100:6031:18::a27d:5112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘D-NeRF_blender_data_single_viewpoint.zip’
+
+              D-NeRF_blender     [<=>                                         ]       0  --.-KB/s                            D-NeRF_blender_     [ <=>                                        ]  72.00K   343KB/s                           D-NeRF_blender_d     [  <=>                                       ] 200.00K   487KB/s                          D-NeRF_blender_da     [   <=>                                      ] 456.00K   746KB/s               D-NeRF_blender_data_single_v     [    <=>                                     ] 577.53K   849KB/s    in 0.7s    
+
+2023-08-19 02:59:34 (849 KB/s) - ‘D-NeRF_blender_data_single_viewpoint.zip’ saved [591392]
+
